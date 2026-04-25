@@ -102,12 +102,12 @@ body {
 }
 
 .fan-bg {
-  background-image: url('assets/fan_bg.png');
+  background-image: url('fan_bg.png');
   filter: brightness(0.6) saturate(1.1);
 }
 
 .ops-bg {
-  background-image: url('assets/ops_bg.png');
+  background-image: url('ops_bg.png');
   filter: brightness(0.55) contrast(1.2);
 }
 
